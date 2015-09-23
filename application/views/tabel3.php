@@ -29,5 +29,7 @@
 	<?php } ?>
 </table>
 <hr />
+powered by oos okt-2015
+silahkan email ke oos777@gmail.com
 </body>
 </html>
